@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="close">
+    <file>icon_close_click.png</file>
+    <file>icon_close_hover.png</file>
+    <file>icon_close_normal.png</file>
+  </qresource>
+  <qresource prefix="file_list">
+    <file>open.png</file>
+  </qresource>
+  <qresource prefix="other">
+    <file>gou.png</file>
+  </qresource>
+  <qresource prefix="mini">
+    <file>icon_mini.png</file>
+  </qresource>
+</RCC>
